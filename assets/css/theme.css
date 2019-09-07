@@ -4824,12 +4824,12 @@ button.bg-info:focus {
   background-color: #117a8b !important; }
 
 .bg-warning {
-  background-color: #ffc107 !important; }
+  background-color: #FFFF01 !important; }
 
 a.bg-warning:hover, a.bg-warning:focus,
 button.bg-warning:hover,
 button.bg-warning:focus {
-  background-color: #d39e00 !important; }
+  background-color: #FFFF01 !important; }
 
 .bg-danger {
   background-color: #dc3545 !important; }
@@ -8317,10 +8317,10 @@ svg.bg-info-alt * {
   fill: #f1f9fb; }
 
 svg.bg-warning * {
-  fill: #ffc107; }
+  fill: #FFFF01; }
 
 svg.bg-warning-alt * {
-  fill: #fffbf0; }
+  fill: #FFFF01; }
 
 svg.bg-danger * {
   fill: #dc3545; }
